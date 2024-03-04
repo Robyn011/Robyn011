@@ -16,19 +16,18 @@ You can click the Preview link to take a look at your changes.
 
 I'm Robyn Paulsen from South Africa. I'm currently a student at CodeSpace and I'm enrolled in their 6 month Software Developement course starting from 15 January 2024. I find coding fun and am up for the challenge if needed.
 
-## Skills And Experience
+## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+##Where to contact me
+![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  **064 377 8302**
+
+![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [robyncocopumpoen@gmail.com](mailto:robyncocopumpoen@gmail.com)
 
 
-- 🔭 I’m currently working on This ReadMe File  
-- 🌱 I’m currently learning HTML, CSS, Javascript 
-- 📫 How to reach me: robyncocopumpoen@gmail.com 
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: I love cats🐱🐱
 
 ## Examples of Work
 
