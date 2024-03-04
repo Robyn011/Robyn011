@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 ![I am a current student at CodeSpace Academy](https://media.licdn.com/dms/image/D4D16AQGWNoCm37RN-w/profile-displaybackgroundimage-shrink_350_1400/0/1709544271260?e=1715212800&v=beta&t=q_8dgVq-G3mWEB6rrtDZ96tpoL3-Esq2iwNZIAtn5eo)
 
 I'm Robyn Paulsen from South Africa. I'm currently a student at CodeSpace and I'm enrolled in their 6 month Software Developement course starting from 15 January 2024. I find coding fun and am up for the challenge if needed.
-##Skills And Experience
+
+## Skills And Experience
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on This ReadMe File  
