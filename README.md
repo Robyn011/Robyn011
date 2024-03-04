@@ -27,6 +27,12 @@ I'm Robyn Paulsen from South Africa. I'm currently a student at CodeSpace and I'
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [robyncocopumpoen@gmail.com](mailto:robyncocopumpoen@gmail.com)
 
+## work Experience
+None
+
+## Education
+### Software Development
+#### Codespace Acadeny
 
 
 ## Examples of Work
