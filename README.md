@@ -32,7 +32,13 @@ None
 
 ## Education
 ### Software Development
-#### Codespace Acadeny
+🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
+*Graduating soon: June 2024*  
+- Completed comprehensive coursework in HTML and CSS and Javascript.
+
+### National Senior Certificate
+🔗[**Fairmont Highschool**](https://www.fairmont.co.za/) <br>
+*Graduated: Dec 2008*  
 
 
 ## Examples of Work
