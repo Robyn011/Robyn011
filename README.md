@@ -37,8 +37,8 @@ None
 - Completed comprehensive coursework in HTML and CSS and Javascript.
 
 ### National Senior Certificate
-🔗[**Fairmont Highschool**](https://www.fairmont.co.za/) <br>
-*Graduated: Dec 2008*  
+🔗[**Fairmont High School**](https://www.fairmont.co.za/) <br>
+*Graduated: Dec 2022*  
 
 
 ## Examples of Work
