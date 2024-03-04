@@ -17,13 +17,17 @@ You can click the Preview link to take a look at your changes.
 I'm Robyn Paulsen from South Africa. I'm currently a student at CodeSpace and I'm enrolled in their 6 month Software Developement course starting from 15 January 2024. I find coding fun and am up for the challenge if needed.
 
 ## Skills And Experience
-Skills: JS / HTML / CSS
+ JavaScript | HTML 5 | CSS 3
 
 - 🔭 I’m currently working on This ReadMe File  
 - 🌱 I’m currently learning HTML, CSS, Javascript 
 - 📫 How to reach me: robyncocopumpoen@gmail.com 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I love cats🐱🐱 
+- ⚡ Fun fact: I love cats🐱🐱
+
+## Examples of Work
+
+
 
 ## Socials
 
