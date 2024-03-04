@@ -22,7 +22,7 @@ I'm Robyn Paulsen from South Africa. I'm currently a student at CodeSpace and I'
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-##Where to contact me
+## Where to contact me
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)  **064 377 8302**
 
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [robyncocopumpoen@gmail.com](mailto:robyncocopumpoen@gmail.com)
