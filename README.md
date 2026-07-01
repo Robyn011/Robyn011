@@ -20,10 +20,13 @@ I'm Robyn Paulsen from South Africa. I've 10 months of experience as a Solution 
 ### Solution Analyst Intern @ Absa
 *April 2025 - January 2026*
 
+### Software Development Intern @ CapaCiti
+*August 2025 - February 2026*  
+
 ## Education
-### Software Development
-🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
-*Graduated: June 2024 - February 2026*  
+### FullStack Development Programme
+🔗[**CapaCiti**](https://capaciti.org.za/) <br>
+*Graduated: August 2025 - February 2026*  
 - Completed comprehensive coursework in HTML and CSS and Javascript.
 
 ### National Senior Certificate
@@ -41,7 +44,7 @@ Task management group project : https://github.com/Sonwabiso1/task-management-ap
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robyn011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robyn-paulsen-086a78295/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rubyyy_1224/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/paulsen_robyn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Robyn-Paulsen)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robyn011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robyn-paulsen-086a78295/) 
 
 ## GitHub Stats
 
