@@ -37,6 +37,7 @@ Portfolio : [https://robyns-portfolio-piece-cdv05.netlify.app/](https://robyn-pa
 
 Add to cart app: https://lucent-moonbeam-209b62.netlify.app/
 
+Task management group project : https://github.com/Sonwabiso1/task-management-app 
 
 ## Socials
 
