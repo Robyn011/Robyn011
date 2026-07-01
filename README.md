@@ -3,7 +3,7 @@
 ## I am a current Software Intern at CapaCiti 
 ![image](https://media.licdn.com/dms/image/D4D16AQGWNoCm37RN-w/profile-displaybackgroundimage-shrink_350_1400/0/1709544271260?e=1723680000&v=beta&t=8yv2Xo5RBapLb_W5ko6GxU2rzdvk5r9JGzP1AK0AIH4)
 
-I'm Robyn Paulsen from South I'm currently a Software intern at CapaCiti. I find coding fun and am up for the challenge if needed.I enjoy the feeling of creating apps and websites and whenever my final project is a success which helps others or it makes life easier for others
+I'm Robyn Paulsen from South Africa. I've 10 months of experience as a Solution Analyst intern at Absa and 18 months of experience in Sofware Development at CapaCiti. I find coding fun and am up for the challenge if needed.I enjoy the feeling of creating apps and websites and whenever my final project is a success which helps others or it makes life easier for others
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,12 +17,13 @@ I'm Robyn Paulsen from South I'm currently a Software intern at CapaCiti. I find
 ![Mail Icon](https://img.icons8.com/ios-glyphs/20/000000/new-post.png)   [robyncocopumpoen@gmail.com](mailto:robyncocopumpoen@gmail.com)
 
 ## Work Experience
-None
+### Solution Analyst Intern @ Absa
+*April 2025 - January 2026*
 
 ## Education
 ### Software Development
 🔗[**CodeSpace Academy**](https://www.codespace.co.za/programs/software-development/) <br>
-*Graduating soon: June 2024*  
+*Graduated: June 2024 - February 2026*  
 - Completed comprehensive coursework in HTML and CSS and Javascript.
 
 ### National Senior Certificate
@@ -35,6 +36,7 @@ None
 Portfolio : [https://robyns-portfolio-piece-cdv05.netlify.app/](https://robyn-paulsen-personal-portfolio.netlify.app)
 
 Add to cart app: https://lucent-moonbeam-209b62.netlify.app/
+
 
 ## Socials
 
